@@ -21,6 +21,7 @@ Node.js
 CSS
 JavaScript
 Python
+
 🎨 Diving into the Creative Realm
 My skills extend beyond coding; I've ventured into the art of 3D animation. From Blender to Unity, Unreal Engine, Character Creator 4, and iClone 8, I've embraced the challenge of bringing imagination to life.
 
