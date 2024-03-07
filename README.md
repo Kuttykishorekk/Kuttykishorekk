@@ -1,32 +1,36 @@
-# Kishorekumar
-Hello fellow tech enthusiasts! 👋 I'm Kishorekumar, a dynamic individual on a relentless pursuit of knowledge and innovation. Let me give you a sneak peek into my journey:
+# Hi, I'm Kishore Kumar 👋
 
-🚀 Background and Education
-Bachelor's in Electronics and Communication Engineering from Manakula Vinayagar Institute of Technology
-Currently, I'm immersing myself in the world of Artificial Intelligence Systems, pursuing my Masters at EPITA, France.
-💡 Projects that Define Me
-Control and Monitoring of IoT Devices using Mixed Reality
-I thrive on turning ideas into reality! One of my notable projects involves implementing cutting-edge solutions for controlling and monitoring IoT devices using Mixed Reality. It's about bridging the gap between the physical and virtual realms.
+!GitHub followers
+!Website
+!Visitor Badge
 
-Python Package: Kutty
-As a tech innovator, I've crafted Kutty, a Python package designed to revolutionize data processes. Kutty is your go-to toolkit, simplifying data cleaning, visualization, and time series analysis. It's all about providing intuitive interfaces for handling missing values, detecting outliers, creating interactive visualizations, and conducting in-depth analyses on time series data.
+I'm a passionate and creative developer who loves to explore new technologies and create amazing projects.
 
-🌐 Web Presence
-I'm not just a coder; I'm a creator! Explore my universe at kuttykk.netlify.app. It's a space where ideas come to life, and creativity knows no bounds.
+## About me
 
-🔧 Tech Toolbox
-I'm well-versed in a myriad of technologies:
+- 🎓 I have a bachelor's degree in electronics and communication engineering from Manakula Vinayagar Institute of Technology, India, where I learned the fundamentals of engineering and programming.
+- 🎓 I'm currently pursuing a master's degree in artificial intelligence systems from EPITA, France, where I'm developing advanced skills and knowledge in machine learning, computer vision, natural language processing, and robotics.
+- 💻 I have experience in web development, data science, and 3D animation, which are some of the most exciting and innovative fields in the world of technology.
+- 🌐 I have my own website: https://kuttykk.netlify.app/, where I showcase my portfolio, blog, and resume.
+- 📚 I'm always learning new skills and tools to improve myself and my projects. I believe that learning is a lifelong journey and a source of joy.
 
-Node.js
-CSS
-JavaScript
-Python
+## My projects
 
-🎨 Diving into the Creative Realm
-My skills extend beyond coding; I've ventured into the art of 3D animation. From Blender to Unity, Unreal Engine, Character Creator 4, and iClone 8, I've embraced the challenge of bringing imagination to life.
+- 🤖 **Control and monitoring of IoT devices using mixed reality**: A project that uses Microsoft HoloLens and Azure IoT Hub to control and monitor smart devices in a virtual environment. This project demonstrates the potential of mixed reality and IoT to create immersive and interactive experiences for users.
+- 🐍 **Kutty**: A Python package developed for simplifying the processes of data cleaning, visualization, and time series analysis. It aims to provide user-friendly interfaces for handling missing values, detecting and treating outliers, creating interactive visualizations, and conducting comprehensive analysis on time series data. This project is inspired by my passion for data science and my desire to make it more accessible and enjoyable for everyone.
+- 🎨 **3D animation**: I have created various 3D animations using Blender, Unity, Unreal Engine, Character Creator 4, and iClone 8. I have a keen interest in 3D modeling, rigging, rendering, and animating. You can check out some of my work on my website or on my YouTube channel.
 
-Let's Connect and Innovate!
-Join me on this exhilarating tech journey! Let's connect, collaborate, and explore the endless possibilities that technology offers.
+## My skills
 
-Feel free to check out my GitHub repositories for a deeper dive into my tech endeavors!
+- 💻 **Programming languages**: Python, JavaScript, Node.js, C#, C++
+- 🌐 **Web development**: HTML, CSS, Bootstrap, React, Express, MongoDB
+- 📊 **Data science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+- 🎥 **3D animation**: Blender, Unity, Unreal Engine, Character Creator 4, iClone 8
+- 🔧 **Other tools**: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Azure, HoloLens
 
+## Contact me
+
+- 📧 Email: kishorekumar@gmail.com
+- 💬 LinkedIn: https://www.linkedin.com/in/kishore-kumar-12345678/
+- 🐦 Twitter: https://twitter.com/kishorekumar
+- 📺 YouTube: https://www.youtube.com/channel/UCkuttykk
