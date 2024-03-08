@@ -30,7 +30,6 @@ I'm a passionate and creative developer who loves to explore new technologies an
 
 ## Contact me
 
-- 📧 Email: kishorekumar@gmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/kishore-kumar-12345678/
-- 🐦 Twitter: https://twitter.com/kishorekumar
-- 📺 YouTube: https://www.youtube.com/channel/UCkuttykk
+- 📧 Email: kishorekumarmourougane@gmail.com
+- 💬 LinkedIn: https://www.linkedin.com/in/kishorekumar3251/
+- 🅾 Instagram: https://www.instagram.com/kutty__kishore/
