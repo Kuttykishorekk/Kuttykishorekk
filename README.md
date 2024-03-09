@@ -1,5 +1,7 @@
 # Hi, I'm Kishore Kumar 👋
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fincubator.ucf.edu%2Fwhat-is-artificial-intelligence-ai-and-why-people-should-learn-about-it%2F&psig=AOvVaw2Oeep2wBvttzb3a4DRxkF8&ust=1710109137070000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiP8I6b6IQDFQAAAAAdAAAAABAE)
+
 !GitHub followers
 !Website
 !Visitor Badge
