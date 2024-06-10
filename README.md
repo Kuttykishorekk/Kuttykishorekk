@@ -16,11 +16,45 @@ I'm a passionate and creative developer who loves to explore new technologies an
 
 ## My projects
 
-- 🤖 **Control and monitoring of IoT devices using mixed reality**: A project that uses Microsoft HoloLens and Azure IoT Hub to control and monitor smart devices in a virtual environment. This project demonstrates the potential of mixed reality and IoT to create immersive and interactive experiences for users.
-- 🐍 **Kutty**: A Python package developed for simplifying the processes of data cleaning, visualization, and time series analysis. It aims to provide user-friendly interfaces for handling missing values, detecting and treating outliers, creating interactive visualizations, and conducting comprehensive analysis on time series data. This project is inspired by my passion for data science and my desire to make it more accessible and enjoyable for everyone.
-- 🎨 **3D animation**: I have created various 3D animations using Blender, Unity, Unreal Engine, Character Creator 4, and iClone 8. I have a keen interest in 3D modeling, rigging, rendering, and animating. You can check out some of my work on my website or on my YouTube channel.
-- 📈 **Stock Market Prediction using Machine Learning**: Join me on a journey into the exciting realm of finance and data science! I've developed a project focusing on stock market prediction using machine learning techniques. This endeavor involves analyzing historical data, identifying trends, and utilizing machine learning algorithms to forecast stock prices. It showcases the fusion of technology and finance, opening new possibilities for informed decision-making in the financial markets.
+Kutty Python Package for Data Science 📊🐍
 
+    Fabricated Kutty for streamlined data cleaning, visualization, and time series analysis in Python.
+    🛠️ Handled missing values and outlier detection.
+    📈 Developed interactive visualizations for better data understanding.
+    🧹 Simplified data cleaning processes with intuitive functions.
+    ⏳ Integrated time series analysis tools for comprehensive data insights.
+
+Mood-Driven Music Recommendation Tool 🎶🤖
+
+    Developed a web app using advanced LLMs to recommend songs based on user emotions.
+    🤝 Leveraged models like Mixtral-8x7b, Llama3-70b, Llama3-7b, and Gemma-7b for personalized song suggestions.
+    😊 Implemented a chat interface and questionnaire to infer recommendations based on emotional trends.
+    📊 Managed datasets with emotional criteria, song lyrics, and Spotify URLs for comprehensive insights.
+    🚀 Provided both local installation and Docker options, with an open-source codebase inviting community contributions.
+
+Predictions using Machine Learning 📉🔍
+
+    Led projects in stock market, heart disease, churn, and house price prediction, emphasizing machine learning techniques.
+    📈 Implemented experiment tracking for model performance.
+    ✅ Ensured adherence to coding standards like Flake 8.
+    🤖 Utilized various machine learning algorithms for accurate predictions.
+    🧹 Conducted thorough data preprocessing and feature engineering.
+
+Control and Monitoring of IoT Devices Using Mixed Reality 🌐📲
+
+    Developed AR systems integrated with wireless technology and IoT for smart interactions with physical objects.
+    🛠️ Designed AR applications on platforms like Unity.
+    👋 Enabled seamless control of IoT operations through human actions (e.g., turning a doorknob).
+    🖥️ Enhanced user experience with intuitive AR interfaces.
+    🌡️ Integrated sensor data to trigger IoT device actions in response to environmental changes.
+
+3D Animation Proficiency 🎥🖌️
+
+    Demonstrated expertise in 3D modeling, rigging, rendering, and animation using various tools.
+    🌐 Featured creative projects on personal website.
+    🎨 Showcased technical and artistic mastery in animation projects.
+    🛠️ Utilized tools like Blender, Unity, and Unreal Engine for diverse projects.
+    🕹️ Created detailed character models and dynamic animations.
 ## Additional Skills
 
 - 📷 Photography and Editing
