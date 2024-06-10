@@ -1,4 +1,4 @@
-# Hi, I'm Kishore Kumar 👋
+# Hi, I'm Kishore Kumar 👋 AI Engineer
 
 !GitHub followers
 !Website
