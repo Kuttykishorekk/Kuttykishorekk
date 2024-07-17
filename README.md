@@ -89,12 +89,6 @@
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white" alt="Chakra-UI" />
 </p>
 
-<h2 align="center">GitHub Streak</h2>
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kuttykishorekk" alt="GitHub Streak"></a>
-</p>
-
 <h2 align="center">Additional Skills</h2>
 
 - 📷 Photography and Editing
@@ -115,6 +109,12 @@
     📧 Email: kishorekumarmourougane@gmail.com <br>
     💬 LinkedIn: [Kishore Kumar](https://www.linkedin.com/in/kishorekumar3251/) <br>
     🅾 Instagram: [kutty__kishore](https://www.instagram.com/kutty__kishore/)
+</p>
+
+<h2 align="center">GitHub Streak</h2>
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kuttykishorekk" alt="GitHub Streak"></a>
 </p>
 
 <p align="center">
