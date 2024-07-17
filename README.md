@@ -6,7 +6,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/username?style=social" alt="GitHub followers" />
-    <img src="https://img.shields.io/website?down_message=down&up_message=up&url=https%3A%2F%2Fkishorekumar.live" alt="Website" />
+    <img src="https://img.shields.io/website?down_message=down&up_message=up&url=https://kishorekumar.live/" alt="Website" />
     <img src="https://visitor-badge.glitch.me/badge?page_id=username.username" alt="Visitor Badge" />
 </p>
 
@@ -87,6 +87,12 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
     <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku" />
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white" alt="Chakra-UI" />
+</p>
+
+<h2 align="center">GitHub Streak</h2>
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kuttykishorekk" alt="GitHub Streak"></a>
 </p>
 
 <h2 align="center">Additional Skills</h2>
