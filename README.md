@@ -14,48 +14,60 @@
 
 <h2 align="center">About me</h2>
 
-- 🎓 I have a bachelor's degree in electronics and communication engineering from Manakula Vinayagar Institute of Technology, India, where I learned the fundamentals of engineering and programming.
-- 🎓 I'm currently pursuing a master's degree in artificial intelligence systems from EPITA, France, where I'm developing advanced skills and knowledge in machine learning, computer vision, natural language processing, and robotics.
-- 💻 I have experience in web development, data science, and 3D animation, which are some of the most exciting and innovative fields in the world of technology.
-- 🌐 I have my own website: [kishorekumar.live](https://kishorekumar.live), where I showcase my portfolio, blog, and resume.
-- 📚 I'm always learning new skills and tools to improve myself and my projects. I believe that learning is a lifelong journey and a source of joy.
+<p align="center">
+  - 🎓 I have a bachelor's degree in electronics and communication engineering from Manakula Vinayagar Institute of Technology, India, where I learned the fundamentals of engineering and programming.<br>
+  - 🎓 I'm currently pursuing a master's degree in artificial intelligence systems from EPITA, France, where I'm developing advanced skills and knowledge in machine learning, computer vision, natural language processing, and robotics.<br>
+  - 💻 I have experience in web development, data science, and 3D animation, which are some of the most exciting and innovative fields in the world of technology.<br>
+  - 🌐 I have my own website: <a href="https://kishorekumar.live">kishorekumar.live</a>, where I showcase my portfolio, blog, and resume.<br>
+  - 📚 I'm always learning new skills and tools to improve myself and my projects. I believe that learning is a lifelong journey and a source of joy.
+</p>
 
 <h2 align="center">My projects</h2>
 
-### Kutty Python Package for Data Science 📊🐍
+<h3 align="center">Kutty Python Package for Data Science 📊🐍</h3>
 
-- 🛠️ Handled missing values and outlier detection.
-- 📈 Developed interactive visualizations for better data understanding.
-- 🧹 Simplified data cleaning processes with intuitive functions.
-- ⏳ Integrated time series analysis tools for comprehensive data insights.
+<p align="center">
+  - 🛠️ Handled missing values and outlier detection.<br>
+  - 📈 Developed interactive visualizations for better data understanding.<br>
+  - 🧹 Simplified data cleaning processes with intuitive functions.<br>
+  - ⏳ Integrated time series analysis tools for comprehensive data insights.
+</p>
 
-### Mood-Driven Music Recommendation Tool 🎶🤖
+<h3 align="center">Mood-Driven Music Recommendation Tool 🎶🤖</h3>
 
-- 🤝 Leveraged models like Mixtral-8x7b, Llama3-70b, Llama3-7b, and Gemma-7b for personalized song suggestions.
-- 😊 Implemented a chat interface and questionnaire to infer recommendations based on emotional trends.
-- 📊 Managed datasets with emotional criteria, song lyrics, and Spotify URLs for comprehensive insights.
-- 🚀 Provided both local installation and Docker options, with an open-source codebase inviting community contributions.
+<p align="center">
+  - 🤝 Leveraged models like Mixtral-8x7b, Llama3-70b, Llama3-7b, and Gemma-7b for personalized song suggestions.<br>
+  - 😊 Implemented a chat interface and questionnaire to infer recommendations based on emotional trends.<br>
+  - 📊 Managed datasets with emotional criteria, song lyrics, and Spotify URLs for comprehensive insights.<br>
+  - 🚀 Provided both local installation and Docker options, with an open-source codebase inviting community contributions.
+</p>
 
-### Predictions using Machine Learning 📉🔍
+<h3 align="center">Predictions using Machine Learning 📉🔍</h3>
 
-- 📈 Implemented experiment tracking for model performance.
-- ✅ Ensured adherence to coding standards like Flake 8.
-- 🤖 Utilized various machine learning algorithms for accurate predictions.
-- 🧹 Conducted thorough data preprocessing and feature engineering.
+<p align="center">
+  - 📈 Implemented experiment tracking for model performance.<br>
+  - ✅ Ensured adherence to coding standards like Flake 8.<br>
+  - 🤖 Utilized various machine learning algorithms for accurate predictions.<br>
+  - 🧹 Conducted thorough data preprocessing and feature engineering.
+</p>
 
-### Control and Monitoring of IoT Devices Using Mixed Reality 🌐📲
+<h3 align="center">Control and Monitoring of IoT Devices Using Mixed Reality 🌐📲</h3>
 
-- 🛠️ Designed AR applications on platforms like Unity.
-- 👋 Enabled seamless control of IoT operations through human actions (e.g., turning a doorknob).
-- 🖥️ Enhanced user experience with intuitive AR interfaces.
-- 🌡️ Integrated sensor data to trigger IoT device actions in response to environmental changes.
+<p align="center">
+  - 🛠️ Designed AR applications on platforms like Unity.<br>
+  - 👋 Enabled seamless control of IoT operations through human actions (e.g., turning a doorknob).<br>
+  - 🖥️ Enhanced user experience with intuitive AR interfaces.<br>
+  - 🌡️ Integrated sensor data to trigger IoT device actions in response to environmental changes.
+</p>
 
-### 3D Animation Proficiency 🎥🖌️
+<h3 align="center">3D Animation Proficiency 🎥🖌️</h3>
 
-- 🌐 Featured creative projects on personal website.
-- 🎨 Showcased technical and artistic mastery in animation projects.
-- 🛠️ Utilized tools like Blender, Unity, and Unreal Engine for diverse projects.
-- 🕹️ Created detailed character models and dynamic animations.
+<p align="center">
+  - 🌐 Featured creative projects on personal website.<br>
+  - 🎨 Showcased technical and artistic mastery in animation projects.<br>
+  - 🛠️ Utilized tools like Blender, Unity, and Unreal Engine for diverse projects.<br>
+  - 🕹️ Created detailed character models and dynamic animations.
+</p>
 
 <h2 align="center">Tools I Use</h2>
 
@@ -91,44 +103,40 @@
 
 <h2 align="center">Additional Skills</h2>
 
-- 📷 Photography and Editing
-- 🛠️ Tools: Photoshop, Adobe Premiere Pro, After Effects.
-- 🎨 Website Design: Proficient in HTML, CSS, Bootstrap, and React.
+<p align="center">
+  - 📷 Photography and Editing<br>
+  - 🛠️ Tools: Photoshop, Adobe Premiere Pro, After Effects.<br>
+  - 🎨 Website Design: Proficient in HTML, CSS, Bootstrap, and React.
+</p>
 
 <h2 align="center">My skills</h2>
 
-- 💻 **Programming languages**: Python, JavaScript, Node.js, C#, C++
-- 🌐 **Web development**: HTML, CSS, Bootstrap, React, Express, MongoDB
-- 📊 **Data science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
-- 🎥 **3D animation**: Blender, Unity, Unreal Engine, Character Creator 4, iClone 8
-- 🔧 **Other tools**: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Azure, HoloLens
+<p align="center">
+  - 💻 **Programming languages**: Python, JavaScript, Node.js, C#, C++<br>
+  - 🌐 **Web development**: HTML, CSS, Bootstrap, React, Express, MongoDB<br>
+  - 📊 **Data science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras<br>
+  - 🎥 **3D animation**: Blender, Unity, Unreal Engine, Character Creator 4, iClone 8<br>
+  - 🔧 **Other tools**: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Azure, HoloLens
+</p>
 
 <h2 align="center">Contact me</h2>
 
 <p align="center">
     📧 Email: kishorekumarmourougane@gmail.com <br>
-    💬 LinkedIn: [Kishore Kumar](https://www.linkedin.com/in/kishorekumar3251/) <br>
-    🅾 Instagram: [kutty__kishore](https://www.instagram.com/kutty__kishore/)
+    💬 LinkedIn: <a href="https://www.linkedin.com/in/kishorekumar3251/">Kishore Kumar</a> <br>
+    🅾 Instagram: <a href="https://www.instagram.com/kutty__kishore/">kutty__kishore</a>
 </p>
 
-<p align="center">
 <h2 align="center">Profile Views</h2>
-  <table>
+
+<p align="center">
+  <table align="center">
     <tr>
-      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/kuttykishorekk"><img src="https://github.com/Thinkright20.png" alt="@kuttykishorekk" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/kuttykishorekk"><b>Thinkright20</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a align="center" href="https://github.com/kuttykishorekk"> <img src="https://komarev.com/ghpvc/?username=kuttykishorekk&style=for-the-badge&color=brightgreen"> </a>
+      <td align="center">
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
