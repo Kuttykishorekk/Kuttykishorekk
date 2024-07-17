@@ -1,4 +1,4 @@
-<div align="center" width="50">
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&width=435&lines=Hello%2C+Welcome+you+to+my+Profile;Just+scroll+down+and+explore+more;Feel+free+to+contact+me" width="100%"/></a>
 </p>
