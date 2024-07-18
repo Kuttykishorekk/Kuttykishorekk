@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Kishore Kumar 👋 AI Engineer</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/username?style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/kuttykishorekk?style=social" alt="GitHub followers" />
     <img src="https://img.shields.io/website?down_message=down&up_message=up&url=https://kishorekumar.live/" alt="Website" />
     <img src="https://custom-icon-badges.demolab.com?logo=love-letter-svgrepo-com" alt="Visitor Badge" />
 </p>
