@@ -2,6 +2,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&width=435&lines=Hello%2C+Welcome+you+to+my+Profile;Just+scroll+down+and+explore+more;Feel+free+to+contact+me" width="100%"/>
 </p>
 
+![IMG_2140](https://github.com/user-attachments/assets/17b12ef1-965a-449a-a1a3-911776fccc1b)
+
+
 <h1 align="center">Hi, I'm Kishore Kumar 👋 AI Engineer</h1>
 
 <p align="center">
