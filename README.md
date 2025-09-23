@@ -150,7 +150,7 @@
 <h2 align="center">GitHub Streak</h2>
 
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=kuttykishorekk&theme=transparent)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
