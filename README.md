@@ -150,8 +150,11 @@
 <h2 align="center">GitHub Streak</h2>
 
 <p align="center">
-   [![GitHub Streak](https://streak-stats.demolab.com?user=kuttykishorekk&theme=transparent)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kuttykishorekk&theme=transparent" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
