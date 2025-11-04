@@ -68,11 +68,43 @@ Creative visualization projects
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering
+
+<div>
+
+🧠 **Deep Learning**  
+Neural Networks, CNNs, RNNs, Transformers
+
+📝 **Natural Language Processing**  
+Text analysis, sentiment analysis, chatbots
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ AI Technologies
+
+<div>
+
+🐍 **ML Frameworks**  
+PyTorch, TensorFlow, Keras, Scikit-learn
+
+☁️ **Cloud Platforms**  
+AWS, Azure, Google Cloud AI services
+
+</div>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
 
-🌐 **Portfolio**: [kishorekumar.live](https://kishorekumar.live) | 📚 *Always learning and growing*
+🌐 **Portfolio**: [kishorekumar.live](https://kishorekumar.tech/) | 📚 *Always learning and growing*
 
 </div>
 
