@@ -30,83 +30,112 @@
 
 ## 📖 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🎓 Education
 
-<div>
+<table>
+<tr>
+<td width="50%" align="center">
 
 🎓 **Bachelor's Degree**  
 Electronics & Communication Engineering  
 *Manakula Vinayagar Institute of Technology, India*  
 Circuit design, signal processing, embedded systems
 
+</td>
+<td width="50%" align="center">
+
 📚 **Master's Degree** (In Progress)  
 Artificial Intelligence Systems  
 *EPITA, France*  
 Advanced ML algorithms, AI research projects
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-### 🛠️ AI Technologies
-
-<div>
-
-🐍 **ML Frameworks**  
-PyTorch, TensorFlow, Keras, Scikit-learn  
-Hugging Face, LangChain
-
-☁️ **Cloud Platforms**  
-AWS SageMaker, Azure ML, Google AI  
-Model deployment and monitoring
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
 ### 💼 Experience
 
-<div>
+<table>
+<tr>
+<td width="33%" align="center">
 
 💻 **Web Development**  
 Full-stack development expertise  
 React, Node.js, Express, MongoDB
 
+</td>
+<td width="33%" align="center">
+
 📊 **Data Science**  
 Machine learning and analytics  
 Data preprocessing, model training
+
+</td>
+<td width="33%" align="center">
 
 🎨 **3D Animation**  
 Creative visualization projects  
 Blender, Unity, Unreal Engine
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 ### 🤖 AI Engineering
 
-<div>
+<table>
+<tr>
+<td width="33%" align="center">
 
 🧠 **Deep Learning**  
 Neural Networks, CNNs, RNNs, Transformers
 
+</td>
+<td width="33%" align="center">
+
 📝 **Natural Language Processing**  
 Text analysis, sentiment analysis, chatbots
+
+</td>
+<td width="33%" align="center">
 
 👁️ **Computer Vision**  
 Image classification, object detection
 
-</div>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ AI Technologies
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+🐍 **ML Frameworks**  
+PyTorch, TensorFlow, Keras, Scikit-learn  
+Hugging Face, LangChain
+
+</td>
+<td width="50%" align="center">
+
+☁️ **Cloud Platforms**  
+AWS SageMaker, Azure ML, Google AI  
+Model deployment and monitoring
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
