@@ -6,7 +6,9 @@
   <img src="https://github.com/user-attachments/assets/17b12ef1-965a-449a-a1a3-911776fccc1b" alt="Banner" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 <div align="center">
   <h1>👋 Hi, I'm Kishore Kumar</h1>
@@ -26,7 +28,9 @@
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/github-snake.svg" alt="Snake animation" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 ## 📖 About Me
 
@@ -143,7 +147,9 @@ Model deployment and monitoring
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -178,7 +184,9 @@ Advanced temporal analysis capabilities
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 ### 🎶 Mood-Driven Music Recommendation Tool
 
@@ -211,7 +219,9 @@ Docker containers & open-source codebase
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 ### 📉 Machine Learning Predictions
 
@@ -244,7 +254,9 @@ Thorough data preprocessing pipeline
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 ### 🌐 IoT Control with Mixed Reality
 
@@ -277,7 +289,9 @@ Responsive IoT device integration
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 ### 🎥 3D Animation & Visualization
 
@@ -310,7 +324,9 @@ Professional animation sequences
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 ## 💻 Tech Stack
 
@@ -366,7 +382,9 @@ Professional animation sequences
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 ## 🎨 Additional Skills
 
@@ -396,7 +414,9 @@ HTML, CSS, Bootstrap, React expertise
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 <div align="center">
 
@@ -422,7 +442,9 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
 <div align="center">
   
