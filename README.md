@@ -6,10 +6,6 @@
   <img src="https://github.com/user-attachments/assets/17b12ef1-965a-449a-a1a3-911776fccc1b" alt="Banner" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/github-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
@@ -24,6 +20,10 @@
   <p>
     <em>Passionate developer exploring the intersection of AI, web technologies, and creative expression</em>
   </p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/github-snake.svg" alt="Snake animation" />
 </div>
 
 ---
