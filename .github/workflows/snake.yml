@@ -1,0 +1,44 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate GitHub Contribution Grid Snake
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: kuttykishorekk
+          svg_out_path: output/github-contribution-grid-snake.svg
+          
+      - name: Generate dark snake
+        uses: Platane/snk@master
+        id: snake-gif-dark
+        with:
+          github_user_name: kuttykishorekk
+          svg_out_path: output/github-contribution-grid-snake-dark.svg
+          color_snake: '#5bde47'
+          color_dots: '#5bde47|#a8e6cf'
+          color_line: '#1f2328'
+          
+      - name: Push to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "Generate snake animation [skip ci]" || echo "No changes to commit"
+          git push
+
