@@ -48,6 +48,23 @@ Artificial Intelligence Systems
 
 </div>
 
+<br>
+
+### 🤖 AI Engineering
+
+<div>
+
+🧠 **Deep Learning**  
+Neural Networks, CNNs, RNNs, Transformers
+
+📝 **Natural Language Processing**  
+Text analysis, sentiment analysis, chatbots
+
+👁️ **Computer Vision**  
+Image classification, object detection
+
+</div>
+
 </td>
 <td width="50%" valign="top">
 
@@ -69,28 +86,7 @@ Blender, Unity, Unreal Engine
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering
-
-<div>
-
-🧠 **Deep Learning**  
-Neural Networks, CNNs, RNNs, Transformers
-
-📝 **Natural Language Processing**  
-Text analysis, sentiment analysis, chatbots
-
-👁️ **Computer Vision**  
-Image classification, object detection
-
-</div>
-
-</td>
-<td width="50%" valign="top">
+<br>
 
 ### 🛠️ AI Technologies
 
