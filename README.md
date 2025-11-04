@@ -331,42 +331,41 @@ HTML, CSS, Bootstrap, React expertise
 
 ---
 
-## 📊 GitHub Statistics
+## 📬 Get In Touch
 
 <div align="center">
-  
-  <a href="https://github.com/thinkright20">
-    <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views" />
-  </a>
+
+### 💬 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+<div>
+
+<a href="mailto:kishorekumarmourougane@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kishorekumar3251/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/kutty__kishore/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
----
+<br>
 
-## 📬 Get In Touch
+<div>
 
-<table>
-<tr>
-<td width="33%" align="center">
+📧 **Email**: [kishorekumarmourougane@gmail.com](mailto:kishorekumarmourougane@gmail.com)  
+💼 **LinkedIn**: [Kishore Kumar](https://www.linkedin.com/in/kishorekumar3251/)  
+📸 **Instagram**: [@kutty__kishore](https://www.instagram.com/kutty__kishore/)
 
-📧 **Email**  
-[kishorekumarmourougane@gmail.com](mailto:kishorekumarmourougane@gmail.com)
+</div>
 
-</td>
-<td width="33%" align="center">
-
-💼 **LinkedIn**  
-[Kishore Kumar](https://www.linkedin.com/in/kishorekumar3251/)
-
-</td>
-<td width="33%" align="center">
-
-📸 **Instagram**  
-[@kutty__kishore](https://www.instagram.com/kutty__kishore/)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
