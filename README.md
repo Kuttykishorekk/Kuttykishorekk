@@ -331,8 +331,6 @@ HTML, CSS, Bootstrap, React expertise
 
 ---
 
-## 📬 Get In Touch
-
 <div align="center">
 
 ### 💬 Let's Connect!
@@ -352,16 +350,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <a href="https://www.instagram.com/kutty__kishore/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-
-</div>
-
-<br>
-
-<div>
-
-📧 **Email**: [kishorekumarmourougane@gmail.com](mailto:kishorekumarmourougane@gmail.com)  
-💼 **LinkedIn**: [Kishore Kumar](https://www.linkedin.com/in/kishorekumar3251/)  
-📸 **Instagram**: [@kutty__kishore](https://www.instagram.com/kutty__kishore/)
 
 </div>
 
