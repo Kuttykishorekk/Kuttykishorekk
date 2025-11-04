@@ -40,28 +40,29 @@
 
 🎓 **Bachelor's Degree**  
 Electronics & Communication Engineering  
-*Manakula Vinayagar Institute of Technology, India*
+*Manakula Vinayagar Institute of Technology, India*  
+Circuit design, signal processing, embedded systems
 
 📚 **Master's Degree** (In Progress)  
 Artificial Intelligence Systems  
-*EPITA, France*
+*EPITA, France*  
+Advanced ML algorithms, AI research projects
 
 </div>
 
 <br>
 
-### 🤖 AI Engineering
+### 🛠️ AI Technologies
 
 <div>
 
-🧠 **Deep Learning**  
-Neural Networks, CNNs, RNNs, Transformers
+🐍 **ML Frameworks**  
+PyTorch, TensorFlow, Keras, Scikit-learn  
+Hugging Face, LangChain
 
-📝 **Natural Language Processing**  
-Text analysis, sentiment analysis, chatbots
-
-👁️ **Computer Vision**  
-Image classification, object detection
+☁️ **Cloud Platforms**  
+AWS SageMaker, Azure ML, Google AI  
+Model deployment and monitoring
 
 </div>
 
@@ -88,17 +89,18 @@ Blender, Unity, Unreal Engine
 
 <br>
 
-### 🛠️ AI Technologies
+### 🤖 AI Engineering
 
 <div>
 
-🐍 **ML Frameworks**  
-PyTorch, TensorFlow, Keras, Scikit-learn  
-Hugging Face, LangChain
+🧠 **Deep Learning**  
+Neural Networks, CNNs, RNNs, Transformers
 
-☁️ **Cloud Platforms**  
-AWS SageMaker, Azure ML, Google AI  
-Model deployment and monitoring
+📝 **Natural Language Processing**  
+Text analysis, sentiment analysis, chatbots
+
+👁️ **Computer Vision**  
+Image classification, object detection
 
 </div>
 
