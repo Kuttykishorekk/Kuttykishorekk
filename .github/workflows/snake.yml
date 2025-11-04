@@ -18,27 +18,20 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: Generate GitHub Contribution Grid Snake
-        uses: Platane/snk@master
-        id: snake-gif
+        uses: Platane/snk@v3
         with:
           github_user_name: kuttykishorekk
-          svg_out_path: output/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Generate dark snake
-        uses: Platane/snk@master
-        id: snake-gif-dark
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_user_name: kuttykishorekk
-          svg_out_path: output/github-contribution-grid-snake-dark.svg
-          color_snake: '#5bde47'
-          color_dots: '#5bde47|#a8e6cf'
-          color_line: '#1f2328'
-          
-      - name: Push to output branch
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git commit -m "Generate snake animation [skip ci]" || echo "No changes to commit"
-          git push
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
