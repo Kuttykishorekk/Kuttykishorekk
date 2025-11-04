@@ -7,11 +7,7 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/output/dist/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/output/dist/github-snake.svg" alt="Snake animation" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/github-snake.svg" alt="Snake animation" />
 </div>
 
 ---
