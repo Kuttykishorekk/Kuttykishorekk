@@ -30,15 +30,47 @@
 
 ## 📖 About Me
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+<div>
+
+🎓 **Bachelor's Degree**  
+Electronics & Communication Engineering  
+*Manakula Vinayagar Institute of Technology, India*
+
+📚 **Master's Degree** (In Progress)  
+Artificial Intelligence Systems  
+*EPITA, France*
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Experience
+
+<div>
+
+💻 **Web Development**  
+Full-stack development expertise
+
+📊 **Data Science**  
+Machine learning and analytics
+
+🎨 **3D Animation**  
+Creative visualization projects
+
+</div>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-🎓 **Education**
-- Bachelor's in Electronics & Communication Engineering from Manakula Vinayagar Institute of Technology, India
-- Currently pursuing Master's in Artificial Intelligence Systems at EPITA, France
-
-💼 **Experience**
-- Web Development, Data Science, and 3D Animation
-- Building innovative solutions at the intersection of technology and creativity
 
 🌐 **Portfolio**: [kishorekumar.live](https://kishorekumar.live) | 📚 *Always learning and growing*
 
@@ -49,69 +81,165 @@
 ## 🚀 Featured Projects
 
 ### 📊 Kutty Python Package for Data Science
+
 <div align="center">
 
 **A comprehensive data science toolkit for streamlined analytics**
 
-- 🛠️ Automated missing value handling and outlier detection
-- 📈 Interactive visualizations for enhanced data insights
-- 🧹 Intuitive data cleaning functions
-- ⏳ Advanced time series analysis capabilities
+<table>
+<tr>
+<td>
+
+🔧 **Automated Processing**  
+Missing value handling and outlier detection
+
+📊 **Visual Analytics**  
+Interactive visualizations for data insights
+
+</td>
+<td>
+
+🧹 **Data Cleaning**  
+Intuitive preprocessing functions
+
+⏳ **Time Series**  
+Advanced temporal analysis capabilities
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 ### 🎶 Mood-Driven Music Recommendation Tool
+
 <div align="center">
 
 **AI-powered music suggestions based on emotional context**
 
-- 🤖 Leverages state-of-the-art LLMs: Mixtral-8x7b, Llama3-70b, Llama3-7b, Gemma-7b
-- 😊 Intelligent chat interface and questionnaire for emotion-based recommendations
-- 📊 Comprehensive dataset management with emotional criteria and Spotify integration
-- 🚀 Docker-ready deployment with open-source community contributions
+<table>
+<tr>
+<td>
+
+🤖 **LLM Integration**  
+Mixtral-8x7b, Llama3-70b, Llama3-7b, Gemma-7b
+
+💬 **Smart Interface**  
+Chat-based emotion detection system
+
+</td>
+<td>
+
+📊 **Data Management**  
+Emotional criteria with Spotify integration
+
+🚀 **Deployment Ready**  
+Docker containers & open-source codebase
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 ### 📉 Machine Learning Predictions
+
 <div align="center">
 
 **Robust ML pipeline with experiment tracking and best practices**
 
-- 📈 Comprehensive experiment tracking for model performance
-- ✅ Code quality assurance with Flake8 standards
-- 🤖 Diverse ML algorithms for accurate predictions
-- 🧹 Thorough preprocessing and feature engineering
+<table>
+<tr>
+<td>
+
+📈 **Experiment Tracking**  
+Comprehensive model performance monitoring
+
+✅ **Code Quality**  
+Flake8 standards and best practices
+
+</td>
+<td>
+
+🤖 **ML Algorithms**  
+Diverse models for accurate predictions
+
+🧹 **Feature Engineering**  
+Thorough data preprocessing pipeline
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 ### 🌐 IoT Control with Mixed Reality
+
 <div align="center">
 
 **Revolutionary AR interface for IoT device management**
 
-- 🛠️ Unity-based AR application development
-- 👋 Gesture-based IoT control through natural human actions
-- 🖥️ Intuitive AR interfaces for enhanced UX
-- 🌡️ Sensor-driven automation for responsive IoT actions
+<table>
+<tr>
+<td>
+
+🛠️ **AR Development**  
+Unity-based mixed reality applications
+
+👋 **Gesture Control**  
+Natural human interaction interface
+
+</td>
+<td>
+
+🖥️ **Intuitive UX**  
+Enhanced AR user experience design
+
+🌡️ **Sensor Automation**  
+Responsive IoT device integration
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 ### 🎥 3D Animation & Visualization
+
 <div align="center">
 
 **Creative projects showcasing technical and artistic mastery**
 
-- 🎨 Professional portfolio featured on personal website
-- 🛠️ Expertise in Blender, Unity, Unreal Engine, Character Creator 4, iClone 8
-- 🕹️ Detailed character modeling and dynamic animation creation
+<table>
+<tr>
+<td>
+
+🎨 **Professional Portfolio**  
+Showcased on personal website
+
+🛠️ **Expert Tools**  
+Blender, Unity, Unreal Engine, Character Creator 4, iClone 8
+
+</td>
+<td>
+
+🕹️ **Character Modeling**  
+Detailed 3D character creation
+
+✨ **Dynamic Animation**  
+Professional animation sequences
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -175,13 +303,31 @@
 
 ## 🎨 Additional Skills
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- 📷 **Photography & Editing**: Professional photo editing and video production
-- 🛠️ **Creative Suite**: Photoshop, Premiere Pro, After Effects
-- 🎨 **Web Design**: HTML, CSS, Bootstrap, React expertise
+### 📷 Photography & Editing
 
-</div>
+Professional photo editing and video production
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Creative Suite
+
+Photoshop, Premiere Pro, After Effects
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 Web Design
+
+HTML, CSS, Bootstrap, React expertise
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -199,13 +345,28 @@
 
 ## 📬 Get In Touch
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-  📧 **Email**: [kishorekumarmourougane@gmail.com](mailto:kishorekumarmourougane@gmail.com)  
-  💼 **LinkedIn**: [Kishore Kumar](https://www.linkedin.com/in/kishorekumar3251/)  
-  📸 **Instagram**: [@kutty__kishore](https://www.instagram.com/kutty__kishore/)
+📧 **Email**  
+[kishorekumarmourougane@gmail.com](mailto:kishorekumarmourougane@gmail.com)
 
-</div>
+</td>
+<td width="33%" align="center">
+
+💼 **LinkedIn**  
+[Kishore Kumar](https://www.linkedin.com/in/kishorekumar3251/)
+
+</td>
+<td width="33%" align="center">
+
+📸 **Instagram**  
+[@kutty__kishore](https://www.instagram.com/kutty__kishore/)
+
+</td>
+</tr>
+</table>
 
 ---
 
