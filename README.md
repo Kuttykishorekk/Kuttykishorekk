@@ -56,13 +56,16 @@ Artificial Intelligence Systems
 <div>
 
 💻 **Web Development**  
-Full-stack development expertise
+Full-stack development expertise  
+React, Node.js, Express, MongoDB
 
 📊 **Data Science**  
-Machine learning and analytics
+Machine learning and analytics  
+Data preprocessing, model training
 
 🎨 **3D Animation**  
-Creative visualization projects
+Creative visualization projects  
+Blender, Unity, Unreal Engine
 
 </div>
 
@@ -81,6 +84,9 @@ Neural Networks, CNNs, RNNs, Transformers
 📝 **Natural Language Processing**  
 Text analysis, sentiment analysis, chatbots
 
+👁️ **Computer Vision**  
+Image classification, object detection
+
 </div>
 
 </td>
@@ -91,10 +97,12 @@ Text analysis, sentiment analysis, chatbots
 <div>
 
 🐍 **ML Frameworks**  
-PyTorch, TensorFlow, Keras, Scikit-learn
+PyTorch, TensorFlow, Keras, Scikit-learn  
+Hugging Face, LangChain
 
 ☁️ **Cloud Platforms**  
-AWS, Azure, Google Cloud AI services
+AWS SageMaker, Azure ML, Google AI  
+Model deployment and monitoring
 
 </div>
 
