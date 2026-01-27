@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/github-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/github-user-contribution(1).svg" alt="Snake animation" />
 </div>
 
 <div align="center">
