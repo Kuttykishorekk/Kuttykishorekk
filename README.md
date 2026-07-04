@@ -126,7 +126,7 @@ Image classification, object detection
 
 🐍 **ML Frameworks**  
 PyTorch, TensorFlow, Keras, Scikit-learn  
-Hugging Face, LangChain
+Hugging Face, LangChain, langsmith
 
 </td>
 <td width="50%" align="center">
