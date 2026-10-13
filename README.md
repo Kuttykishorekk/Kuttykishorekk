@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kishorekumar+Mourougane+%F0%9F%91%8B;AI+Software+Developer+%40+Apana+AI;M.Sc.+in+Artificial+Intelligence+%40+EPITA+Paris;Agentic+AI+%E2%80%A2+LLMs+%E2%80%A2+Full-Stack+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&width=435&lines=Hello%2C+Welcome+you+to+my+Profile;Just+scroll+down+and+explore+more;Feel+free+to+contact+me" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/17b12ef1-965a-449a-a1a3-911776fccc1b" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/banner.jpg" alt="Kishorekumar Mourougane Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -11,19 +11,22 @@
 </div>
 
 <div align="center">
+  <h1>👋 Hi, I'm Kishore Kumar</h1>
+  <h3>🤖 AI Software Developer @ Apana AI | 🧠 M.Sc in AI @ EPITA Paris | 🚀 Full-Stack & Agentic AI</h3>
 
-  [![Location](https://img.shields.io/badge/Location-Paris%2C%20France-00E5FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117)](#)
-  [![Current Role](https://img.shields.io/badge/Role-AI%20Software%20Developer%20%40%20Apana%20AI-7928CA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)](#)
-  [![Education](https://img.shields.io/badge/M.Sc%20in%20AI-EPITA%20Paris%20(2025)-FF0080?style=for-the-badge&logo=graduatestudent&logoColor=white&labelColor=0d1117)](#)
-  [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities%20(CDI)-10B981?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](#)
+  <p>
+    <a href="https://www.linkedin.com/in/kishorekumar3251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="https://kishorekumar.tech/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    &nbsp;
+    <a href="mailto:kishorekumar.mourougane@epita.fr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    &nbsp;
+    <a href="https://github.com/Kuttykishorekk"><img src="https://img.shields.io/github/followers/Kuttykishorekk?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=5865f2" alt="GitHub followers" /></a>
+  </p>
 
-  <br>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kishorekumar3251-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/kishorekumar3251/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-kishorekumar.tech-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://kishorekumar.tech/)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:kishorekumar.mourougane@epita.fr)
-  [![Followers](https://img.shields.io/github/followers/Kuttykishorekk?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=6366F1)](https://github.com/Kuttykishorekk)
-
+  <p>
+    <em>Passionate AI engineer building production Agentic systems, enterprise LLM pipelines, and scalable web architectures</em>
+  </p>
 </div>
 
 <div align="center">
