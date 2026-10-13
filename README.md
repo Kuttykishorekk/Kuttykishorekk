@@ -322,30 +322,11 @@ I am an **AI Software Developer** based in Paris with a Master of Science in Art
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
 </div>
 
-## 📊 GitHub Activity & Analytics
+## 📈 GitHub Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Kuttykishorekk">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kuttykishorekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00e5ff&text_color=9ece6a&icon_color=bb9af7" alt="GitHub Stats" height="175" />
-  </a>
-  <a href="https://github.com/Kuttykishorekk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttykishorekk&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" alt="Top Languages" height="175" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Kuttykishorekk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuttykishorekk&theme=tokyonight&hide_border=true&stroke=00e5ff&ring=bb9af7&fire=00e5ff" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
 </div>
 
