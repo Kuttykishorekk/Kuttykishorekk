@@ -1,151 +1,72 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&width=435&lines=Hello%2C+Welcome+you+to+my+Profile;Just+scroll+down+and+explore+more;Feel+free+to+contact+me" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kishorekumar+Mourougane+%F0%9F%91%8B;AI+Software+Developer+%40+Apana+AI;M.Sc.+in+Artificial+Intelligence+%40+EPITA+Paris;Agentic+AI+%E2%80%A2+LLMs+%E2%80%A2+Full-Stack+AI+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/17b12ef1-965a-449a-a1a3-911776fccc1b" alt="Banner" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
-</div>
-
-<div align="center">
-  <h1>👋 Hi, I'm Kishore Kumar</h1>
-  <h3>🤖 AI Engineer | 💻 Full-Stack Developer | 🎨 Creative Technologist</h3>
-  
-  <p>
-    <img src="https://img.shields.io/github/followers/thinkright20?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=5865f2" alt="GitHub followers" />
-    <img src="https://img.shields.io/website?down_message=offline&up_message=online&url=https://kishorekumar.live/&style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a&color=5865f2" alt="Website" />
-  </p>
-  
-  <p>
-    <em>Passionate developer exploring the intersection of AI, web technologies, and creative expression</em>
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/github-user-contribution(1).svg" alt="Snake animation" />
+  <img src="https://github.com/user-attachments/assets/17b12ef1-965a-449a-a1a3-911776fccc1b" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
 </div>
 
-## 📖 About Me
-
 <div align="center">
 
-### 🎓 Education
+  [![Location](https://img.shields.io/badge/Location-Paris%2C%20France-00E5FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117)](#)
+  [![Current Role](https://img.shields.io/badge/Role-AI%20Software%20Developer%20%40%20Apana%20AI-7928CA?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)](#)
+  [![Education](https://img.shields.io/badge/M.Sc%20in%20AI-EPITA%20Paris%20(2025)-FF0080?style=for-the-badge&logo=graduatestudent&logoColor=white&labelColor=0d1117)](#)
+  [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities%20(CDI)-10B981?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](#)
 
-<table>
-<tr>
-<td width="50%" align="center">
+  <br>
 
-🎓 **Bachelor's Degree**  
-Electronics & Communication Engineering  
-*Manakula Vinayagar Institute of Technology, India*  
-Circuit design, signal processing, embedded systems
-
-</td>
-<td width="50%" align="center">
-
-📚 **Master's Degree** (In Progress)  
-Artificial Intelligence Systems  
-*EPITA, France*  
-Advanced ML algorithms, AI research projects
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 💼 Experience
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-💻 **Web Development**  
-Full-stack development expertise  
-React, Node.js, Express, MongoDB
-
-</td>
-<td width="33%" align="center">
-
-📊 **Data Science**  
-Machine learning and analytics  
-Data preprocessing, model training
-
-</td>
-<td width="33%" align="center">
-
-🎨 **3D Animation**  
-Creative visualization projects  
-Blender, Unity, Unreal Engine
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🤖 AI Engineering
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-🧠 **Deep Learning**  
-Neural Networks, CNNs, RNNs, Transformers
-
-</td>
-<td width="33%" align="center">
-
-📝 **Natural Language Processing**  
-Text analysis, sentiment analysis, chatbots
-
-</td>
-<td width="33%" align="center">
-
-👁️ **Computer Vision**  
-Image classification, object detection
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🛠️ AI Technologies
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-🐍 **ML Frameworks**  
-PyTorch, TensorFlow, Keras, Scikit-learn  
-Hugging Face, LangChain, langsmith
-
-</td>
-<td width="50%" align="center">
-
-☁️ **Cloud Platforms**  
-AWS SageMaker, Azure ML, Google AI  
-Model deployment and monitoring
-
-</td>
-</tr>
-</table>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kishorekumar3251-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/kishorekumar3251/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-kishorekumar.tech-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://kishorekumar.tech/)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:kishorekumar.mourougane@epita.fr)
+  [![Followers](https://img.shields.io/github/followers/Kuttykishorekk?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=6366F1)](https://github.com/Kuttykishorekk)
 
 </div>
 
 <div align="center">
-
-🌐 **Portfolio**: [kishorekumar.live](https://kishorekumar.tech/) | 📚 *Always learning and growing*
-
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
 </div>
+
+## 👨‍💻 About Me
+
+I am an **AI Software Developer** based in Paris with a Master of Science in Artificial Intelligence from **EPITA Paris**. I specialize in building end-to-end **Agentic AI systems, enterprise LLM pipelines, and production full-stack architectures**.
+
+- 🏢 **Currently**: Engineering meeting intelligence pipelines at **Apana AI**, leveraging **LangChain, LangSmith, Django, Celery, and React/TypeScript** to capture live transcripts, automate structured financial extraction, and sync external APIs.
+- ⚡ **Proven Impact**: Reduced inference latency by **35%**, cut LLM hallucinations by **60%**, and boosted data extraction reliability by **75%** through schema-driven validation and evaluation loops.
+- 🧠 **Focus Areas**: Multi-Agent orchestration, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), Fine-Tuning (LoRA/QLoRA), and Scalable Backend Systems.
+- 🌍 **Languages**: English (*Fluent*), French (*Proficient*), Tamil (*Native*), Hindi (*Intermediate*).
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
+
+## 🏆 Key Achievements & Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Research Publication (ACL 2024 Submission)</h3>
+      <p><strong>"Few-Shot Learning for Tamil Sentiment Analysis"</strong></p>
+      <ul>
+        <li>Pioneered few-shot adaptation using <strong>Llama 3 70B</strong> on low-resource Indic languages.</li>
+        <li>Achieved state-of-the-art <strong>89% F1-score</strong> on domain benchmark datasets.</li>
+        <li>Conducted rigorous prompt evaluation and token efficiency benchmarking.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥇 EPITA Kaggle Week — 1st Place Winner</h3>
+      <p><strong>Supply Chain Cost Optimization Challenge</strong></p>
+      <ul>
+        <li>Ranked <strong>#1 out of 23 competing teams</strong> at EPITA Paris.</li>
+        <li>Engineered high-performance <strong>XGBoost</strong> predictive models with extensive feature extraction.</li>
+        <li>Achieved an estimated <strong>18% cost reduction</strong> in supply chain logistical operations.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
@@ -153,292 +74,199 @@ Model deployment and monitoring
 
 ## 🚀 Featured Projects
 
-### 📊 Kutty Python Package for Data Science
-
-<div align="center">
-
-**A comprehensive data science toolkit for streamlined analytics**
-
 <table>
-<tr>
-<td>
-
-🔧 **Automated Processing**  
-Missing value handling and outlier detection
-
-📊 **Visual Analytics**  
-Interactive visualizations for data insights
-
-</td>
-<td>
-
-🧹 **Data Cleaning**  
-Intuitive preprocessing functions
-
-⏳ **Time Series**  
-Advanced temporal analysis capabilities
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
-</div>
-
-### 🎶 Mood-Driven Music Recommendation Tool
-
-<div align="center">
-
-**AI-powered music suggestions based on emotional context**
-
-<table>
-<tr>
-<td>
-
-🤖 **LLM Integration**  
-Mixtral-8x7b, Llama3-70b, Llama3-7b, Gemma-7b
-
-💬 **Smart Interface**  
-Chat-based emotion detection system
-
-</td>
-<td>
-
-📊 **Data Management**  
-Emotional criteria with Spotify integration
-
-🚀 **Deployment Ready**  
-Docker containers & open-source codebase
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
-</div>
-
-### 📉 Machine Learning Predictions
-
-<div align="center">
-
-**Robust ML pipeline with experiment tracking and best practices**
-
-<table>
-<tr>
-<td>
-
-📈 **Experiment Tracking**  
-Comprehensive model performance monitoring
-
-✅ **Code Quality**  
-Flake8 standards and best practices
-
-</td>
-<td>
-
-🤖 **ML Algorithms**  
-Diverse models for accurate predictions
-
-🧹 **Feature Engineering**  
-Thorough data preprocessing pipeline
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
-</div>
-
-### 🌐 IoT Control with Mixed Reality
-
-<div align="center">
-
-**Revolutionary AR interface for IoT device management**
-
-<table>
-<tr>
-<td>
-
-🛠️ **AR Development**  
-Unity-based mixed reality applications
-
-👋 **Gesture Control**  
-Natural human interaction interface
-
-</td>
-<td>
-
-🖥️ **Intuitive UX**  
-Enhanced AR user experience design
-
-🌡️ **Sensor Automation**  
-Responsive IoT device integration
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
-</div>
-
-### 🎥 3D Animation & Visualization
-
-<div align="center">
-
-**Creative projects showcasing technical and artistic mastery**
-
-<table>
-<tr>
-<td>
-
-🎨 **Professional Portfolio**  
-Showcased on personal website
-
-🛠️ **Expert Tools**  
-Blender, Unity, Unreal Engine, Character Creator 4, iClone 8
-
-</td>
-<td>
-
-🕹️ **Character Modeling**  
-Detailed 3D character creation
-
-✨ **Dynamic Animation**  
-Professional animation sequences
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
-</div>
-
-## 💻 Tech Stack
-
-### Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</div>
-
-### Frameworks & Libraries
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css" />
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra-UI" />
-</div>
-
-### Data Science & ML
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-</div>
-
-### Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="GNU/Linux" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode" />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure" />
-</div>
-
-### Creative Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lightroom" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
-</div>
-
-## 🎨 Additional Skills
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 📷 Photography & Editing
-
-Professional photo editing and video production
-
-</td>
-<td width="33%" valign="top">
-
-### 🛠️ Creative Suite
-
-Photoshop, Premiere Pro, After Effects
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 Web Design
-
-HTML, CSS, Bootstrap, React expertise
-
-</td>
-</tr>
+  <!-- Project 1: KuttyPulse -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Kuttykishorekk/Kutty-s-Pulse">KuttyPulse — Multi-Agent AI Trading Platform</a></h3>
+      <p><em>Autonomous event-driven multi-agent platform orchestrating concurrent LLMs for live financial market intelligence and risk execution.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Alpaca%20API-FFDF00?style=flat-square&logo=alpaca&logoColor=black" />
+        <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-7928CA?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <ul>
+        <li>Architected multi-agent system on Supabase Edge Functions orchestrating concurrent LLMs for market sentiment analysis.</li>
+        <li>Synthesized live news and macroeconomic feeds into actionable trading signals using RAG real-time search.</li>
+        <li>Deployed dynamic <strong>Risk Manager Agent</strong> enforcing automated position sizing via Alpaca API.</li>
+        <li>Interactive dashboard built with React, Vite, and Shadcn/ui visualizing agent task graphs and live P&L.</li>
+      </ul>
+      <p>
+        🔗 <a href="https://github.com/Kuttykishorekk/Kutty-s-Pulse"><strong>Explore Repository »</strong></a>
+      </p>
+    </td>
+    <!-- Project 2: KuttyDoc -->
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/Kuttykishorekk/KuttyDoc">KuttyDoc — AI Healthcare & Telemedicine Platform</a></h3>
+      <p><em>Full-featured AI telemedicine platform integrating computer vision, symptom diagnosis, and clinical LLM assistance.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-150458?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Llama%203%2070B-0467DF?style=flat-square&logo=meta&logoColor=white" />
+        <img src="https://img.shields.io/badge/BioBERT-FF9900?style=flat-square&logo=huggingface&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+      </p>
+      <ul>
+        <li>Trained disease prediction models on 50K+ cases, achieving <strong>92% diagnostic accuracy</strong> with XGBoost.</li>
+        <li>Integrated <strong>Llama 3 70B + RAG</strong> for conversational medical consultation and clinical triaging.</li>
+        <li>Engineered <strong>BioBERT-based e-prescription verification</strong>, reducing clinical misdiagnoses by <strong>30%</strong> (4.9/5 rating).</li>
+        <li>Real-time video consultation engine powered by WebRTC, Firebase, and AWS deployment.</li>
+      </ul>
+      <p>
+        🔗 <a href="https://github.com/Kuttykishorekk/KuttyDoc"><strong>Explore Repository »</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Project 3: ArtBot -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/Kuttykishorekk/Kutty-s-Artbot">ArtBot — Next-Gen AI Image Generation Studio</a></h3>
+      <p><em>Production web client leveraging state-of-the-art diffusion models for high-fidelity visual synthesis and style customization.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2013-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stable%20Diffusion%203-FF6F00?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flux.1-7928CA?style=flat-square&logo=ai&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      </p>
+      <ul>
+        <li>Integrated <strong>Flux.1 and Stable Diffusion 3</strong> into an intuitive Next.js 13 full-stack application.</li>
+        <li>Fine-tuned artistic models with PyTorch and benchmarked generation outputs using <strong>FID and CLIP scores</strong>.</li>
+        <li>Designed client-side persistent caching with IndexedDB for lightning-fast gallery browsing.</li>
+        <li>Usage and prompt telemetry dashboard for performance evaluation, earning a <strong>4.8/5 satisfaction score</strong>.</li>
+      </ul>
+      <p>
+        🔗 <a href="https://github.com/Kuttykishorekk/Kutty-s-Artbot"><strong>Explore Repository »</strong></a>
+      </p>
+    </td>
+    <!-- Project 4: Customer Churn ML -->
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Kuttykishorekk/Kuttychurnprediction">Production Customer Churn MLOps Pipeline</a></h3>
+      <p><em>End-to-end machine learning system with automated experiment tracking, model explainability, and containerized deployment.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      </p>
+      <ul>
+        <li>Trained ensemble architecture (Random Forest + XGBoost) achieving <strong>90% prediction accuracy</strong>.</li>
+        <li>Integrated <strong>SHAP</strong> for feature attribution interpretability and <strong>Optuna</strong> for hyperparameter tuning.</li>
+        <li>Accelerated ETL preprocessing by <strong>25%</strong> utilizing parallelized Polars and Pandas workflows.</li>
+        <li>Automated versioning and drift detection via <strong>MLflow</strong> with live <strong>Grafana</strong> monitoring dashboards.</li>
+      </ul>
+      <p>
+        🔗 <a href="https://github.com/Kuttykishorekk/Kuttychurnprediction"><strong>Explore Repository »</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Project 5 & 6 Row -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/Kuttykishorekk/Kutty-package">Kutty-Package — Python Analytics & Preprocessing Toolkit</a></h3>
+      <p><em>Published Python utility library simplifying exploratory data analysis, time-series forecasting, and automated data cleaning.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      </p>
+      <ul>
+        <li>Automated missing value imputation, outlier detection, and statistical distribution modeling.</li>
+        <li>Integrated one-line interactive visualizations for fast dataset exploration.</li>
+        <li>Includes advanced time-series decomposition routines for temporal analysis.</li>
+      </ul>
+      <p>
+        🔗 <a href="https://github.com/Kuttykishorekk/Kutty-package"><strong>Explore Repository »</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/Kuttykishorekk/Kutty-s-MusicBot">Mood-Driven Music Recommender</a></h3>
+      <p><em>Emotion-aware contextual recommendation system powered by multi-LLM dialogue and Spotify integration.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mixtral--8x7B-FF7043?style=flat-square&logo=mistral&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spotify%20API-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <ul>
+        <li>Detects real-time emotional nuances via interactive conversational LLM interface.</li>
+        <li>Integrates Mixtral-8x7B and Llama 3 for sentiment parsing mapped to musical audio features.</li>
+        <li>Generates curated Spotify playlists directly via official OAuth endpoints.</li>
+      </ul>
+      <p>
+        🔗 <a href="https://github.com/Kuttykishorekk/Kutty-s-MusicBot"><strong>Explore Repository »</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
 </div>
 
+## 🛠️ Technical Skills & Tooling
+
 <div align="center">
 
-### 💬 Let's Connect!
+### 🤖 Generative AI, Agents & LLMs
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangSmith-002D62?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-10B981?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_%26_Vector_Search-6366F1?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+<br>
 
-<div>
+### ⚙️ Backend & Distributed Systems
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
 
-<a href="mailto:kishorekumarmourougane@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kishorekumar3251/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/kutty__kishore/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<br>
 
-</div>
+### 💻 Frontend & Modern UI
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<br>
+
+### 📈 Data Engineering & MLOps
+<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+<br>
+
+### ☁️ Cloud, DevOps & Environments
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
 
@@ -446,15 +274,102 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
 </div>
 
+## 💼 Professional Experience
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 Apana AI — AI Software Developer (Paris, France)          Sep 2025 – Present │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│ • Engineered end-to-end meeting intelligence pipeline with LangChain & LangSmith│
+│ • Integrated meeting bot automation, Django/Celery services, and React frontends│
+│ • Developed Pydantic schema validation for dynamic financial insight extraction │
+│ • Metrics: -35% latency, -60% LLM hallucinations, +75% extraction reliability   │
+└─────────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│ 📊 Infotech Solutions — Data Scientist Intern                Jan 2023 – Jun 2023│
+├─────────────────────────────────────────────────────────────────────────────────┤
+│ • Automated ETL preprocessing using Python & SQL, cutting manual effort by 15%   │
+│ • Built interactive Power BI reporting dashboards (+20% faster decision-making) │
+│ • Developed customer retention and churn prediction models via Scikit-learn     │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" />
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
 
-  <p><em>Thanks for visiting! Feel free to explore my repositories and connect with me.</em></p>
+## 🎓 Education
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎓 EPITA Paris</h3>
+      <p><strong>Master of Science (M.Sc) in Artificial Intelligence</strong><br><em>Sep 2023 – Mar 2025 | Paris, France</em></p>
+      <p>Deep Learning • NLP • Reinforcement Learning • Transformer Architectures (BERT / GPT)</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎓 Manakula Vinayagar Institute of Tech</h3>
+      <p><strong>Bachelor of Technology in Electronics & Communication</strong><br><em>Aug 2019 – May 2023 | India</em></p>
+      <p>Embedded Systems • Signal Processing • Numerical Methods • Mathematics</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
+
+## 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Kuttykishorekk">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kuttykishorekk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00e5ff&text_color=9ece6a&icon_color=bb9af7" alt="GitHub Stats" height="175" />
+  </a>
+  <a href="https://github.com/Kuttykishorekk">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuttykishorekk&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" alt="Top Languages" height="175" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Kuttykishorekk">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuttykishorekk&theme=tokyonight&hide_border=true&stroke=00e5ff&ring=bb9af7&fire=00e5ff" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
+</div>
+
+## 📬 Let's Connect!
+
+I am always keen to discuss **AI Engineering, Agentic Systems, Research, or Full-Time CDI opportunities** in Paris or remote.
+
+<div align="center">
+  <a href="mailto:kishorekumar.mourougane@epita.fr">
+    <img src="https://img.shields.io/badge/Email-kishorekumar.mourougane%40epita.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kishorekumar3251/">
+    <img src="https://img.shields.io/badge/LinkedIn-kishorekumar3251-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://kishorekumar.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-kishorekumar.tech-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kuttykishorekk">
+    <img src="https://img.shields.io/badge/GitHub-Kuttykishorekk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p><em>⭐ Built with precision for the modern AI engineering era. Thanks for visiting!</em></p>
 </div>
