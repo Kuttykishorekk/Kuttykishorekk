@@ -279,23 +279,45 @@ I am an **AI Software Developer** based in Paris with a Master of Science in Art
 
 ## 💼 Professional Experience
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ 🚀 Apana AI — AI Software Developer (Paris, France)          Sep 2025 – Present │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│ • Engineered end-to-end meeting intelligence pipeline with LangChain & LangSmith│
-│ • Integrated meeting bot automation, Django/Celery services, and React frontends│
-│ • Developed Pydantic schema validation for dynamic financial insight extraction │
-│ • Metrics: -35% latency, -60% LLM hallucinations, +75% extraction reliability   │
-└─────────────────────────────────────────────────────────────────────────────────┘
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ 📊 Infotech Solutions — Data Scientist Intern                Jan 2023 – Jun 2023│
-├─────────────────────────────────────────────────────────────────────────────────┤
-│ • Automated ETL preprocessing using Python & SQL, cutting manual effort by 15%   │
-│ • Built interactive Power BI reporting dashboards (+20% faster decision-making) │
-│ • Developed customer retention and churn prediction models via Scikit-learn     │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🚀 AI Software Developer — <strong>Apana AI</strong></h3>
+      <p><em>Paris, France &nbsp;|&nbsp; Sep 2025 – Present</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangSmith-002D62?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-10B981?style=flat-square&logo=anthropic&logoColor=white" />
+      </p>
+      <ul>
+        <li>Engineered end-to-end meeting intelligence pipeline using <strong>LangChain & LangSmith</strong>, integrating meeting bots for transcript capture and automated asynchronous workflows.</li>
+        <li>Developed dynamic schema-driven extraction with <strong>Pydantic</strong> validation for financial insights and API-based data synchronization.</li>
+        <li>Optimized inference pipelines, cutting latency by <strong>35%</strong>, LLM hallucinations by <strong>60%</strong>, and improving data reliability by <strong>75%</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>📊 Data Scientist Intern — <strong>Infotech Solutions</strong></h3>
+      <p><em>Jan 2023 – Jun 2023</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      </p>
+      <ul>
+        <li>Automated data preprocessing with Python and SQL, reducing manual effort by <strong>15%</strong>.</li>
+        <li>Developed interactive Power BI executive dashboards, improving organizational decision-making by <strong>20%</strong>.</li>
+        <li>Trained and evaluated customer retention and churn prediction models using Scikit-learn.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kuttykishorekk/Kuttykishorekk/main/animated-divider.svg" alt="animated divider" width="100%" />
