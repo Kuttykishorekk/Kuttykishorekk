@@ -8,6 +8,6 @@ My work focuses on building practical AI tools, contributing to open-source, and
 
 #### Links
 
-- Website: [kishorekumar.tech](https://kishorekumar.tech)
+- Website: [kishorekumarmourougane.tech](https://kishorekumarmourougane.tech)
 - LinkedIn: [in/kishorekumar3251](https://linkedin.com/in/kishorekumar3251)
 - Email: [kishorekumar.mourougane@epita.fr](mailto:kishorekumar.mourougane@epita.fr)
